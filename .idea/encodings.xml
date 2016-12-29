@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/javaapkcomMySkinDemo/src/main/java/com/example/skindemo/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaapkcomMySkinDemo/src/main/java/com/example/skindemo/MySkin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaapkcomMySkinDemo/src/main/java/com/example/skindemo/SkinSettingManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productpage/src/main/java/com/xiaoyuan/StickyScrollView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

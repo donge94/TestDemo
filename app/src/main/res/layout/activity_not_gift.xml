@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@android:color/transparent"
+    android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_centerInParent="true"
+            android:id="@+id/ll_dialog"
+            android:orientation="vertical"
+            android:background="@drawable/dialog_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="我要领奖"
+                android:textSize="28sp"
+                android:textColor="#FFF"/>
+            <LinearLayout
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="100dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+                <EditText
+                    android:id="@+id/et_phone_number"
+                    android:padding="10dp"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edt_shape_mobile"
+                    android:hint="手机验证码"/>
+                <Space
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/tv_get_phone_number"
+                    android:textSize="22sp"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:textColor="#6F00"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_shape_get_small"
+                    android:text="获取"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_get_gift"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_shape_get"
+                android:text="领    取"/>
+        </LinearLayout>
+
+</RelativeLayout>

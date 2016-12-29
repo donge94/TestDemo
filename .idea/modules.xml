@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaapkcomMySkinDemo/javaapkcomMySkinDemo.iml" filepath="$PROJECT_DIR$/javaapkcomMySkinDemo/javaapkcomMySkinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productpage/productpage.iml" filepath="$PROJECT_DIR$/productpage/productpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitDemo/retrofitDemo.iml" filepath="$PROJECT_DIR$/retrofitDemo/retrofitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+    </modules>
+  </component>
+</project>
